@@ -184,16 +184,26 @@ Not intended for clinical use; for educational/support purposes only
  3. Journal of Clinical Endocrinology & Metabolism
  4. Menopause: The Journal of NAMS
 ### Technical Resources
+
  scikit-learn documentation
+ 
  React best practices
+ 
  HIPAA compliance guidelines
+ 
  FDA guidance on clinical decision support software
- Datasets
+ 
+ ### Datasets
+
  SWAN Public Dataset (reference)
+ 
  Synthetic dataset (primary - included)
 
  ## 🙏Acknowledgments
  Hackathon organizers for the opportunity
+ 
  SWAN study for inspiring the challenge
+ 
  Women's health research community
+ 
  All women navigating the menopause transition
